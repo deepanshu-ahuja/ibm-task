@@ -1,0 +1,37 @@
+.employeeRoot{
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 1rem; */
+}
+
+.actionWrapper{
+    display: flex;
+    margin-bottom: 1rem;
+    justify-content: center;
+}
+
+.btn{
+    width: 7rem;
+    background-color: #0f62fe;
+    color: #fff;
+    font-weight: 600;
+    padding:  0.7rem;
+    margin: 5px;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    border: none;
+}
+
+.rootEmployee{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.rootEmployee input{
+    margin-left: 1rem;
+    border: 1px solid #000;
+    border-radius: 0.3rem;
+    padding: 0.2rem;
+    width: 12.5rem;
+}

@@ -1,0 +1,15 @@
+.Table {
+    width: 600px;
+    background-color: rgb(116, 213, 234);
+    margin: 0 auto;
+    padding: 25px;
+    color: #fff;
+}
+table {
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+  }

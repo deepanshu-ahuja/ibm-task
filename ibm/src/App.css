@@ -1,0 +1,14 @@
+.parent{
+    width: 100%;
+    max-width: 70%;
+    margin:  0 auto;
+    background-color: aliceblue;
+    padding: 1.6rem;
+    border-radius: 0.8rem;
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    color:  #0f62fe;
+}
